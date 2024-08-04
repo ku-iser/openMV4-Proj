@@ -1,5 +1,5 @@
 # openMV4-Proj
-Self projects using openMV4 H7 Plus or K210 chip by Kaiser Gu. Including Electronics Design Contests in China.
+Self projects using openMV4 H7 Plus or K210 chip by Kaiser Ku. Including Electronics Design Contests in China.
 ## Proj1 : Design of a Tic-Tac-Toe Game Device
 ### General intro
 From the 2024 National Undergraduate Electronics Design Competition Regional Contest (2024/7/29-2024/8/1).  
