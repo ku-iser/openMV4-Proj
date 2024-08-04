@@ -7,7 +7,7 @@
 # References: https://github.com/openmv && https://book.openmv.cc/ && https://pypi.org/ 
 # Start: 2024.7.29
 # Completion: 2024.8.1
-# Acknowledgements: Thanks to Teacher Ruan Bingtao for training guidance and ZJU-ISEE for venue support
+# Acknowledgements: Thanks to Professor Ruan Bingtao for training guidance and ZJU-ISEE for venue support
 
 
 
